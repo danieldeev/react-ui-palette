@@ -1,0 +1,7 @@
+body {background-color: #fcfcfc;}
+.card{border-radius: 8px !important;}
+.card-content{background-color: #212121;}
+.color{font-weight: bold;font-size: 18px;color: #FFF;}
+.ui-button{background-color: #08B2E3;color: #FFF;}
+.app-header{display: flex;align-content: center;justify-content: center;margin-bottom: 13px;}
+.app-headline{font-family: Ubuntu Bold;}

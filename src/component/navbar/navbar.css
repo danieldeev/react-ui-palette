@@ -1,0 +1,8 @@
+.brand{color: #212121 !important;font-family: Ubuntu Bold;cursor: pointer;}
+.back{background-color: #08B2E3;color: #FFF;margin-right: 8px;border-radius: 8px;padding-left: 3px;padding-right: 3px;}
+.nav-item {color: #212121;font-family: Ubuntu Bold;}
+.nav-item:hover { color: #08B2E3; background-color: #FFF; }
+.icofont-email{
+	font-size: 19px;
+}
+.name{ font-family: Ubuntu Bold; }
